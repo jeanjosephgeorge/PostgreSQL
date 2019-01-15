@@ -20,6 +20,7 @@
 -- SELECT COUNT(category) FROM restaurant
 
 -- 7. get the average stars per restaurant by category.
-
+-- SELECT AVG(stars) FROM restaurant
 
 -- 8. get the max stars of a restaurant by category.
+-- SELECT MAX(stars) FROM restaurant
